@@ -1,0 +1,35 @@
+HTML
+ THER ARE MANLY 6 TYPE OF HTML VE
+
+
+
+1 HTML 1.0
+> THER arerilised in 1911
+html 2.0 reliesed in 1995
+html 3.2 relised in 1997
+html 4.01 relised in 1999
+ x html relised in 2000
+html five 2014
+ 
+
+
+ formet of html
+
+<html>
+<head>
+</head>
+<body>
+</body>
+</html>
+
+
+ther are many six type of html
+
+1typeography
+2table
+3list
+4link
+
+
+
+
